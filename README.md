@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to help me expand my application of HTML. By the end of this I will have a basic understanding of how to use HTML to construct a simple webpage that I can then expand upon.
